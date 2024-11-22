@@ -1,4 +1,6 @@
 #!/bin/bash
+# run with 
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/HMFlol/RandomProjects/refs/heads/main/Scripts/linuxsetup.sh)"
 
 # Update package list and upgrade packages
 echo "Updating package list and upgrading packages"
